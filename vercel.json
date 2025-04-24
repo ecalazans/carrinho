@@ -1,5 +1,5 @@
 {
-  "newrites": [
+  "rewrites": [
     {
       "source": "/(.*)",
       "destination": "/"
